@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Texxv
-- 👀 I’m interested in learning how to code
+- 👀 I’m interested in learning how to code.
 - 🌱 I’m currently learning basic concepts
 - 📫 How to reach me by my Twitter account, which is @tex_xxv, or by e-mail: arthhur.vasconcellos@acad.ufsm.br
 <!---
