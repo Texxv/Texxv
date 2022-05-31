@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Texxv
-- 👀 I’m interested in become a full stack developer.
+- 👀 I’m interested in learning how to code.
 - 🌱 I’m currently searching for a new job.
 - 📫 How to reach me by my Twitter account, which is @tex_xxv, or by e-mail: arthurtex1@gmail.com
 <!---
